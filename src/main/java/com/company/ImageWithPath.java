@@ -1,6 +1,5 @@
 package com.company;
 
-import java.awt.*;
 import java.awt.image.BufferedImage;
 
 public class ImageWithPath {
